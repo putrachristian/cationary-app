@@ -1,11 +1,12 @@
-import { Home, Compass, Target, BookOpen } from "lucide-react";
+import { Home, Compass, Target, BookOpen, MessageCircle } from "lucide-react";
 
 export const BottomNav = ({ active, onNavigate }) => {
   const navItems = [
     { id: "home", icon: Home, label: "Home" },
     { id: "breeds", icon: Compass, label: "Breeds" },
     { id: "match", icon: Target, label: "Match" },
-    { id: "tips", icon: BookOpen, label: "Tips" }
+    { id: "tips", icon: BookOpen, label: "Tips" },
+    { id: "chat", icon: MessageCircle, label: "Chat" }
   ];
 
   return (

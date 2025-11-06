@@ -6,6 +6,7 @@ import {
   Sparkles,
   TrendingUp,
   Lightbulb,
+  MessageCircle,
 } from "lucide-react"
 import { motion } from "motion/react"
 import { Button } from "../components/ui/button"
@@ -16,6 +17,7 @@ import { ArticleCard } from "../components/ArticleCard"
 import articlesData from "../data/article.json"
 import indonesiaCatBreeds from "../data/indonesia_cat_breeds.json"
 import { getCatImage } from "../utils/catApi"
+import momochikoImg from "../assets/images/momochiko.jpeg";
 
 export const HomePage = ({ onNavigate }) => {
   const articles = articlesData
@@ -81,7 +83,7 @@ export const HomePage = ({ onNavigate }) => {
   return (
     <div className="pb-20 bg-background min-h-screen">
       {/* Header */}
-      <div className="bg-white border-b border-border shadow-soft-sm sticky top-0 z-60">
+      <div className="bg-white border-b border-border shadow-soft-sm sticky top-0 z-40">
         <div className="p-6 pb-4">
           <div className="flex items-center justify-between mb-4">
             <div>
@@ -356,6 +358,47 @@ export const HomePage = ({ onNavigate }) => {
                       >
                         Jelajahi Fakta
                         <ChevronRight className="w-4 h-4" />
+                      </Button>
+                    </div>
+                  </div>
+                </Card>
+              </motion.div>
+            </section>
+
+             {/* Section 2.6: Chat with Momochiko - NEW */}
+             <section>
+              <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: 0.4 }}
+              >
+                <Card className="bg-gradient-to-br from-primary/10 via-secondary/10 to-primary/5 border border-primary/20 shadow-soft-lg overflow-hidden cursor-pointer hover:scale-[1.02] transition-all"
+                  onClick={() => onNavigate("chat")}
+                >
+                  <div className="p-6 relative">
+                    <div className="absolute top-4 right-4 opacity-10">
+                      <MessageCircle className="w-24 h-24 text-primary" />
+                    </div>
+                    <div className="relative z-10">
+                      <div className="flex items-center gap-2 mb-2">
+                        <div className="w-10 h-10 rounded-full overflow-hidden shadow-soft ring-2 ring-primary/20">
+                          <img
+                            src={momochikoImg}
+                            alt="Momochiko"
+                            className="w-full h-full object-cover"
+                          />
+                        </div>
+                        <h3 className="text-lg text-foreground">Chat dengan Momochiko</h3>
+                      </div>
+                      <p className="text-muted-foreground text-sm mb-4 max-w-xs">
+                        Tanya Momochiko segala hal tentang kucing - dari perawatan hingga perilaku!
+                      </p>
+                      <Button 
+                        variant="default"
+                        className="shadow-soft"
+                      >
+                        Mulai Chat
+                        <MessageCircle className="w-4 h-4" />
                       </Button>
                     </div>
                   </div>

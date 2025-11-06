@@ -5,17 +5,18 @@ import { Button } from "../components/ui/button"
 import { Progress } from "../components/ui/progress"
 import { Badge } from "../components/ui/badge"
 import { ImageWithFallback } from "../components/ui/ImageWithFallback"
-import quizQuestionsData from "../data/quiz.json"
+import { toast } from "sonner"
 import indonesiaCatBreeds from "../data/indonesia_cat_breeds.json"
 import { getCatImage } from "../utils/catApi"
-import { generateCatRecommendations } from "../utils/geminiApi"
+import { generateCatRecommendations, generateQuizQuestions } from "../utils/geminiApi"
 
 export const CatMatchPage = ({
   onNavigate,
   savedResults = [],
   onSaveResults,
 }) => {
-  const quizQuestions = quizQuestionsData
+  const [quizQuestions, setQuizQuestions] = useState([])
+  const [isLoadingQuestions, setIsLoadingQuestions] = useState(false)
   const [stage, setStage] = useState(
     savedResults.length > 0 ? "result" : "intro"
   )
@@ -25,10 +26,21 @@ export const CatMatchPage = ({
   const [matchResults, setMatchResults] = useState(savedResults)
   const [isTransitioning, setIsTransitioning] = useState(false)
 
-  const handleStartQuiz = () => {
-    setStage("quiz")
-    setCurrentQuestion(0)
-    setAnswers({})
+  const handleStartQuiz = async () => {
+    setIsLoadingQuestions(true)
+    try {
+      // Generate quiz questions when user clicks start
+      const generatedQuestions = await generateQuizQuestions()
+      setQuizQuestions(generatedQuestions)
+      setStage("quiz")
+      setCurrentQuestion(0)
+      setAnswers({})
+    } catch (error) {
+      console.error("Error generating quiz questions:", error)
+      toast.error("Gagal memuat pertanyaan. Silakan coba lagi nanti.")
+    } finally {
+      setIsLoadingQuestions(false)
+    }
   }
 
   const handleAnswer = (answer) => {
@@ -132,7 +144,7 @@ export const CatMatchPage = ({
   if (stage === "intro") {
     return (
       <div className="pb-20 bg-background min-h-screen flex flex-col">
-        <div className="p-6 pb-4 border-b border-border bg-white">
+        {/* <div className="p-6 pb-4 border-b border-border bg-white">
           <button
             onClick={() => onNavigate("home")}
             className="flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors"
@@ -140,7 +152,7 @@ export const CatMatchPage = ({
             <ArrowLeft className="w-5 h-5" />
             <span className="text-sm">Kembali</span>
           </button>
-        </div>
+        </div> */}
 
         <div className="flex-1 flex flex-col items-center justify-center p-6 text-center">
           <motion.div
@@ -166,7 +178,7 @@ export const CatMatchPage = ({
                 <Check className="w-5 h-5 text-primary" />
               </div>
               <p className="text-sm text-left">
-                {quizQuestions.length} pertanyaan singkat
+                10 pertanyaan singkat
               </p>
             </div>
             <div className="flex items-center gap-3 mb-3">
@@ -189,8 +201,9 @@ export const CatMatchPage = ({
             onClick={handleStartQuiz}
             size="lg"
             className="w-full max-w-sm"
+            disabled={isLoadingQuestions}
           >
-            Mulai Kuis
+            {isLoadingQuestions ? "Memuat pertanyaan..." : "Mulai Kuis"}
             <Sparkles className="w-4 h-4" />
           </Button>
         </div>

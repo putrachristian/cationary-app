@@ -11,8 +11,16 @@
     "weight": "3.5–7 kg",
     "lifespan": "10–15 tahun",
     "price_range_IDR": "Rp 4.000.000 – Rp 12.000.000",
-    "tags": ["Tenang", "Penyayang", "Cocok di apartemen"],
-    "personality": ["Lembut", "Penyayang", "Kalem"],
+    "tags": [
+      "Tenang",
+      "Penyayang",
+      "Cocok di apartemen"
+    ],
+    "personality": [
+      "Lembut",
+      "Penyayang",
+      "Kalem"
+    ],
     "description": "Ras paling populer di Indonesia, dikenal karena bulu panjang dan wajahnya. Mereka menikmati suasana rumah yang hening dan cocok bagi pemilik yang sabar."
   },
   {
@@ -27,8 +35,16 @@
     "weight": "5–7 kg",
     "lifespan": "15–20 tahun",
     "price_range_IDR": "Rp 3.000.000 – Rp 8.000.000",
-    "tags": ["Pemburu Hebat", "Berotot", "Tahan Banting"],
-    "personality": ["Ramah", "Tenang", "Mandiri"],
+    "tags": [
+      "Pemburu Hebat",
+      "Berotot",
+      "Tahan Banting"
+    ],
+    "personality": [
+      "Ramah",
+      "Tenang",
+      "Mandiri"
+    ],
     "description": "Kucing pekerja yang kuat, American Shorthair dikenal karena sifatnya yang tenang dan pembawaan yang santai. Mereka adalah sahabat yang baik bagi keluarga."
   },
   {
@@ -43,8 +59,16 @@
     "weight": "4–8 kg",
     "lifespan": "14–20 tahun",
     "price_range_IDR": "Rp 7.000.000 – Rp 18.000.000",
-    "tags": ["Tenang", "Mandiri", "Pipi Chubby"],
-    "personality": ["Kalem", "Bermartabat", "Penyayang"],
+    "tags": [
+      "Tenang",
+      "Mandiri",
+      "Pipi Chubby"
+    ],
+    "personality": [
+      "Kalem",
+      "Bermartabat",
+      "Penyayang"
+    ],
     "description": "Dikenal karena wajahnya yang bulat dan bulunya yang tebal seperti boneka. Mereka adalah kucing yang tenang, mandiri, dan mudah beradaptasi."
   },
   {
@@ -59,8 +83,16 @@
     "weight": "4.5–9 kg",
     "lifespan": "12–17 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 15.000.000",
-    "tags": ["Tenang", "Sangat Penyayang", "Sering 'Lemas' saat digendong"],
-    "personality": ["Lembut", "Ramah", "Santai"],
+    "tags": [
+      "Tenang",
+      "Sangat Penyayang",
+      "Sering 'Lemas' saat digendong"
+    ],
+    "personality": [
+      "Lembut",
+      "Ramah",
+      "Santai"
+    ],
     "description": "Ragdoll dikenal karena sifatnya yang sangat lembut dan cenderung 'lemas' seperti boneka kain saat digendong. Mereka sangat penyayang dan cocok untuk keluarga."
   },
   {
@@ -75,8 +107,16 @@
     "weight": "4–8.5 kg",
     "lifespan": "12–15 tahun",
     "price_range_IDR": "Rp 6.000.000 – Rp 15.000.000",
-    "tags": ["Raksasa Lembut", "Seperti anjing", "Tahan cuaca dingin"],
-    "personality": ["Ramah", "Setia", "Ceria"],
+    "tags": [
+      "Raksasa Lembut",
+      "Seperti anjing",
+      "Tahan cuaca dingin"
+    ],
+    "personality": [
+      "Ramah",
+      "Setia",
+      "Ceria"
+    ],
     "description": "Dijuluki 'Raksasa Lembut', Maine Coon adalah ras kucing terbesar. Mereka dikenal karena sifatnya yang ramah, bulunya yang lebat, dan suka bermain."
   },
   {
@@ -91,8 +131,17 @@
     "weight": "4.5–7 kg",
     "lifespan": "9–15 tahun",
     "price_range_IDR": "Rp 8.000.000 – Rp 30.000.000+",
-    "tags": ["Sangat Aktif", "Suka Air", "Lincah", "Mirip Macan"],
-    "personality": ["Cerdas", "Penasaran", "Penuh Energi"],
+    "tags": [
+      "Sangat Aktif",
+      "Suka Air",
+      "Lincah",
+      "Mirip Macan"
+    ],
+    "personality": [
+      "Cerdas",
+      "Penasaran",
+      "Penuh Energi"
+    ],
     "description": "Bengal adalah ras hibrida yang dikenal karena pola bulunya yang khas seperti macan tutul. Mereka sangat aktif, cerdas, dan membutuhkan banyak stimulasi."
   },
   {
@@ -107,8 +156,16 @@
     "weight": "2.5–6 kg",
     "lifespan": "11–15 tahun",
     "price_range_IDR": "Rp 7.000.000 – Rp 18.000.000",
-    "tags": ["Telinga Terlipat", "Lembut", "Posisi Duduk Unik"],
-    "personality": ["Manis", "Penyayang", "Tenang"],
+    "tags": [
+      "Telinga Terlipat",
+      "Lembut",
+      "Posisi Duduk Unik"
+    ],
+    "personality": [
+      "Manis",
+      "Penyayang",
+      "Tenang"
+    ],
     "description": "Scottish Fold terkenal dengan telinganya yang terlipat ke depan. Mereka memiliki sifat yang sangat manis, penyayang, dan mudah beradaptasi."
   },
   {
@@ -123,8 +180,16 @@
     "weight": "3–5 kg",
     "lifespan": "8–14 tahun",
     "price_range_IDR": "Rp 15.000.000 – Rp 35.000.000",
-    "tags": ["Suka diemong", "Enerjik", "Perlu perawatan kulit"],
-    "personality": ["Ekstrovert", "Lucu", "Manja"],
+    "tags": [
+      "Suka diemong",
+      "Enerjik",
+      "Perlu perawatan kulit"
+    ],
+    "personality": [
+      "Ekstrovert",
+      "Lucu",
+      "Manja"
+    ],
     "description": "Sphynx adalah kucing yang unik karena hampir tidak memiliki bulu. Mereka sangat enerjik, ramah, dan menuntut perhatian. Mereka perlu dimandikan secara teratur."
   },
   {
@@ -139,8 +204,16 @@
     "weight": "4.5–9 kg",
     "lifespan": "10–18 tahun",
     "price_range_IDR": "Rp 8.000.000 – Rp 20.000.000",
-    "tags": ["Alergi Rendah", "Bulu Tebal", "Playful"],
-    "personality": ["Ramah", "Setia", "Suka Bermain"],
+    "tags": [
+      "Alergi Rendah",
+      "Bulu Tebal",
+      "Playful"
+    ],
+    "personality": [
+      "Ramah",
+      "Setia",
+      "Suka Bermain"
+    ],
     "description": "Kucing hutan dari Rusia dengan bulu tebal tiga lapis. Sering dicari karena dianggap hypoallergenic (tingkat protein Fel d 1 rendah)."
   },
   {
@@ -155,8 +228,16 @@
     "weight": "3.5–5.5 kg",
     "lifespan": "15–20 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 12.000.000",
-    "tags": ["Bulu Biru Perak", "Alergi Rendah", "Anggun"],
-    "personality": ["Tenang", "Penyayang", "Cerdas"],
+    "tags": [
+      "Bulu Biru Perak",
+      "Alergi Rendah",
+      "Anggun"
+    ],
+    "personality": [
+      "Tenang",
+      "Penyayang",
+      "Cerdas"
+    ],
     "description": "Russian Blue dikenal karena bulunya yang berwarna biru keperakan dan mata hijaunya yang cerah. Mereka pendiam, penyayang, dan cerdas."
   },
   {
@@ -171,8 +252,16 @@
     "weight": "3.5–6 kg",
     "lifespan": "10–15 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 10.000.000",
-    "tags": ["Sifat Manis", "Tenang", "Bulu Berkilau"],
-    "personality": ["Ramah", "Playful", "Tenang"],
+    "tags": [
+      "Sifat Manis",
+      "Tenang",
+      "Bulu Berkilau"
+    ],
+    "personality": [
+      "Ramah",
+      "Playful",
+      "Tenang"
+    ],
     "description": "Burmilla adalah persilangan antara Burmese dan Chinchilla Persian. Mereka memiliki bulu perak yang berkilau dan sifat yang manis serta tenang."
   },
   {
@@ -187,8 +276,16 @@
     "weight": "3–5 kg",
     "lifespan": "12–15 tahun",
     "price_range_IDR": "Rp 3.000.000 – Rp 7.000.000",
-    "tags": ["Sangat Vokal", "Sosial", "Poin Warna"],
-    "personality": ["Ekstrovert", "Cerdas", "Penyayang"],
+    "tags": [
+      "Sangat Vokal",
+      "Sosial",
+      "Poin Warna"
+    ],
+    "personality": [
+      "Ekstrovert",
+      "Cerdas",
+      "Penyayang"
+    ],
     "description": "Kucing yang sangat vokal dan menuntut perhatian, Siamese dikenal karena pola warna 'point' gelap di ekstremitasnya dan mata birunya yang khas."
   },
   {
@@ -203,8 +300,16 @@
     "weight": "3–5 kg",
     "lifespan": "10–15 tahun",
     "price_range_IDR": "Rp 4.000.000 – Rp 12.000.000",
-    "tags": ["Poin Warna", "Tenang", "Perlu Perawatan Ekstra"],
-    "personality": ["Manis", "Tenang", "Penyayang"],
+    "tags": [
+      "Poin Warna",
+      "Tenang",
+      "Perlu Perawatan Ekstra"
+    ],
+    "personality": [
+      "Manis",
+      "Tenang",
+      "Penyayang"
+    ],
     "description": "Himalayan adalah persilangan Persian dan Siamese, memiliki bulu panjang Persian dan pola warna *point* Siamese. Mereka adalah kucing yang santai dan lembut."
   },
   {
@@ -219,8 +324,16 @@
     "weight": "4.5–7 kg",
     "lifespan": "12–16 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 12.000.000",
-    "tags": ["Mata Biru", "Lembut", "Kaki Putih Bersarung"],
-    "personality": ["Penyayang", "Tenang", "Sosial"],
+    "tags": [
+      "Mata Biru",
+      "Lembut",
+      "Kaki Putih Bersarung"
+    ],
+    "personality": [
+      "Penyayang",
+      "Tenang",
+      "Sosial"
+    ],
     "description": "Birman adalah kucing dengan mata biru yang indah dan sarung tangan putih pada keempat kakinya. Mereka dikenal karena sifatnya yang lembut dan penyayang."
   },
   {
@@ -235,8 +348,17 @@
     "weight": "3–5 kg",
     "lifespan": "12–15 tahun",
     "price_range_IDR": "Rp 6.000.000 – Rp 14.000.000",
-    "tags": ["Sangat Aktif", "Penjelajah", "Kucing Rumahan Cerdas"],
-    "personality": ["Aktif", "Enerjik", "Cerdas", "Penyayang"],
+    "tags": [
+      "Sangat Aktif",
+      "Penjelajah",
+      "Kucing Rumahan Cerdas"
+    ],
+    "personality": [
+      "Aktif",
+      "Enerjik",
+      "Cerdas",
+      "Penyayang"
+    ],
     "description": "Abyssinian adalah ras yang sangat aktif dan penuh rasa ingin tahu, sering dianggap sebagai 'kucing rumahan yang besar'. Mereka memiliki bulu 'ticked' yang unik."
   },
   {
@@ -251,8 +373,16 @@
     "weight": "2–4 kg",
     "lifespan": "12–15 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 15.000.000",
-    "tags": ["Kaki Pendek", "Ceria", "Lucu"],
-    "personality": ["Playful", "Ramah", "Penasaran"],
+    "tags": [
+      "Kaki Pendek",
+      "Ceria",
+      "Lucu"
+    ],
+    "personality": [
+      "Playful",
+      "Ramah",
+      "Penasaran"
+    ],
     "description": "Munchkin dikenal karena kakinya yang pendek. Meskipun bertubuh kecil, mereka sangat ceria, aktif, dan dapat melompat seperti kucing biasa."
   },
   {
@@ -267,8 +397,16 @@
     "weight": "5–9 kg",
     "lifespan": "14–16 tahun",
     "price_range_IDR": "Rp 6.000.000 – Rp 15.000.000",
-    "tags": ["Tahan Dingin", "Penyayang", "Pemanjat Hebat"],
-    "personality": ["Ramah", "Cerdas", "Setia"],
+    "tags": [
+      "Tahan Dingin",
+      "Penyayang",
+      "Pemanjat Hebat"
+    ],
+    "personality": [
+      "Ramah",
+      "Cerdas",
+      "Setia"
+    ],
     "description": "Kucing yang kuat dan kokoh dengan bulu ganda tebal. Mereka penyayang, suka memanjat, dan aktif."
   },
   {
@@ -289,7 +427,11 @@
       "Seperti Pixie",
       "Rambut Sedikit Rontok"
     ],
-    "personality": ["Nak", "Aktif", "Ramah"],
+    "personality": [
+      "Nak",
+      "Aktif",
+      "Ramah"
+    ],
     "description": "Devon Rex dikenal karena telinganya yang besar dan bulunya yang keriting yang jarang rontok. Mereka sangat nakal, ceria, dan suka bertengger di bahu pemiliknya."
   },
   {
@@ -304,8 +446,16 @@
     "weight": "3.5–6 kg",
     "lifespan": "14–20 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 12.000.000",
-    "tags": ["Bulu Unik", "Suka Main", "Jarang Ditemukan"],
-    "personality": ["Penyayang", "Ceria", "Lembut"],
+    "tags": [
+      "Bulu Unik",
+      "Suka Main",
+      "Jarang Ditemukan"
+    ],
+    "personality": [
+      "Penyayang",
+      "Ceria",
+      "Lembut"
+    ],
     "description": "Dikenal karena bulunya yang unik dan kasar seperti kawat. Mereka memiliki sifat yang manis dan penyayang, serta senang berinteraksi dengan manusia."
   },
   {
@@ -320,8 +470,16 @@
     "weight": "4.5–6.5 kg",
     "lifespan": "10–15 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 12.000.000",
-    "tags": ["Bertotol", "Sosial", "Seperti Anjing"],
-    "personality": ["Aktif", "Penyayang", "Cerdas"],
+    "tags": [
+      "Bertotol",
+      "Sosial",
+      "Seperti Anjing"
+    ],
+    "personality": [
+      "Aktif",
+      "Penyayang",
+      "Cerdas"
+    ],
     "description": "Ocicat adalah kucing domestik yang dikembangkan agar terlihat seperti kucing liar bertotol. Mereka sangat sosial dan mudah dilatih, mirip anjing."
   },
   {
@@ -336,8 +494,16 @@
     "weight": "3–5 kg",
     "lifespan": "10–15 tahun",
     "price_range_IDR": "Rp 4.000.000 – Rp 10.000.000",
-    "tags": ["Vokal", "Ekor Panjang", "Banyak Warna"],
-    "personality": ["Cerdas", "Ingin Tahu", "Sosial"],
+    "tags": [
+      "Vokal",
+      "Ekor Panjang",
+      "Banyak Warna"
+    ],
+    "personality": [
+      "Cerdas",
+      "Ingin Tahu",
+      "Sosial"
+    ],
     "description": "Oriental Shorthair adalah ras cerdas dan vokal yang datang dalam berbagai pola dan warna. Mereka sangat terikat dengan pemiliknya."
   },
   {
@@ -352,8 +518,16 @@
     "weight": "2.5–5 kg",
     "lifespan": "10–16 tahun",
     "price_range_IDR": "Rp 4.000.000 – Rp 9.000.000",
-    "tags": ["Ramah", "Sosial", "Bulu Lembut"],
-    "personality": ["Penyayang", "Cerdas", "Aktif"],
+    "tags": [
+      "Ramah",
+      "Sosial",
+      "Bulu Lembut"
+    ],
+    "personality": [
+      "Penyayang",
+      "Cerdas",
+      "Aktif"
+    ],
     "description": "Persilangan antara Siamese dan Burmese, Tonkinese adalah kucing yang sangat penyayang dan ramah. Mereka memiliki mata berwarna *aqua* yang unik."
   },
   {
@@ -368,12 +542,20 @@
     "weight": "3.5–5 kg",
     "lifespan": "12–16 tahun",
     "price_range_IDR": "Rp 4.000.000 – Rp 9.000.000",
-    "tags": ["Miniatur Panther", "Bulu Hitam Kilat", "Suka Bermain"],
-    "personality": ["Ramah", "Cerdas", "Manja"],
+    "tags": [
+      "Miniatur Panther",
+      "Bulu Hitam Kilat",
+      "Suka Bermain"
+    ],
+    "personality": [
+      "Ramah",
+      "Cerdas",
+      "Manja"
+    ],
     "description": "Bombay adalah ras yang dikembangkan agar terlihat seperti miniatur 'Black Panther'. Mereka memiliki bulu hitam legam yang mengkilap dan sifat yang sangat ramah."
   },
   {
-    "id": "jbob",
+    "id": "java",
     "name": "Javanese",
     "origin": "Amerika Serikat / Kanada",
     "fur_type": "Semi-panjang",
@@ -384,8 +566,16 @@
     "weight": "2.5–5 kg",
     "lifespan": "10–15 tahun",
     "price_range_IDR": "Rp 4.000.000 – Rp 9.000.000",
-    "tags": ["Vokal", "Bulu Halus", "Anggun"],
-    "personality": ["Cerdas", "Aktif", "Setia"],
+    "tags": [
+      "Vokal",
+      "Bulu Halus",
+      "Anggun"
+    ],
+    "personality": [
+      "Cerdas",
+      "Aktif",
+      "Setia"
+    ],
     "description": "Javanese adalah kucing dari kelompok Oriental, memiliki bulu semi-panjang tanpa lapisan bawah. Mereka vokal, cerdas, dan sangat terikat dengan pemiliknya."
   },
   {
@@ -400,8 +590,17 @@
     "weight": "6–12 kg",
     "lifespan": "12–14 tahun",
     "price_range_IDR": "Rp 15.000.000 – Rp 40.000.000",
-    "tags": ["Hibrida", "Sangat Aktif", "Atletis", "Langka"],
-    "personality": ["Cerdas", "Enerjik", "Tegas"],
+    "tags": [
+      "Hibrida",
+      "Sangat Aktif",
+      "Atletis",
+      "Langka"
+    ],
+    "personality": [
+      "Cerdas",
+      "Enerjik",
+      "Tegas"
+    ],
     "description": "Chausie adalah hibrida domestik dengan kucing hutan. Mereka adalah kucing yang besar, sangat atletis, dan menuntut banyak interaksi dan ruang untuk bermain."
   },
   {
@@ -416,8 +615,16 @@
     "weight": "2.5–4.5 kg",
     "lifespan": "10–15 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 10.000.000",
-    "tags": ["Cokelat Solid", "Sangat Ramah", "Bulu Halus"],
-    "personality": ["Cerdas", "Penyayang", "Suka Mengobrol"],
+    "tags": [
+      "Cokelat Solid",
+      "Sangat Ramah",
+      "Bulu Halus"
+    ],
+    "personality": [
+      "Cerdas",
+      "Penyayang",
+      "Suka Mengobrol"
+    ],
     "description": "Havana Brown adalah kucing yang unik dengan warna cokelat solid yang khas. Mereka sangat cerdas, suka berinteraksi, dan menggunakan cakarnya untuk menjelajah."
   },
   {
@@ -432,8 +639,16 @@
     "weight": "3.5–5.5 kg",
     "lifespan": "11–16 tahun",
     "price_range_IDR": "Rp 6.000.000 – Rp 14.000.000",
-    "tags": ["Ekor Lebat", "Aktif", "Playful"],
-    "personality": ["Cerdas", "Enerjik", "Penuh Kasih Sayang"],
+    "tags": [
+      "Ekor Lebat",
+      "Aktif",
+      "Playful"
+    ],
+    "personality": [
+      "Cerdas",
+      "Enerjik",
+      "Penuh Kasih Sayang"
+    ],
     "description": "Somali adalah versi bulu panjang dari Abyssinian. Mereka sangat aktif, cerdas, dan dikenal memiliki ekor yang lebat seperti rubah."
   },
   {
@@ -448,8 +663,16 @@
     "weight": "3–5 kg",
     "lifespan": "12–15 tahun",
     "price_range_IDR": "Rp 6.000.000 – Rp 15.000.000",
-    "tags": ["Kucing Bertotol Alami", "Pelari Cepat", "Mata Hijau Cemerlang"],
-    "personality": ["Lincah", "Cerdas", "Setia"],
+    "tags": [
+      "Kucing Bertotol Alami",
+      "Pelari Cepat",
+      "Mata Hijau Cemerlang"
+    ],
+    "personality": [
+      "Lincah",
+      "Cerdas",
+      "Setia"
+    ],
     "description": "Egyptian Mau adalah satu-satunya ras kucing domestik yang memiliki pola bintik-bintik alami. Mereka adalah salah satu ras kucing tercepat."
   },
   {
@@ -464,8 +687,16 @@
     "weight": "2.5–4 kg",
     "lifespan": "9–15 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 12.000.000",
-    "tags": ["Ekor Pendek", "Kucing Keberuntungan", "Vokal"],
-    "personality": ["Cerdas", "Aktif", "Ramah"],
+    "tags": [
+      "Ekor Pendek",
+      "Kucing Keberuntungan",
+      "Vokal"
+    ],
+    "personality": [
+      "Cerdas",
+      "Aktif",
+      "Ramah"
+    ],
     "description": "Japanese Bobtail dikenal karena ekornya yang pendek dan unik seperti pom-pom. Mereka adalah kucing yang cerdas, suka bermain, dan sangat bersahabat."
   },
   {
@@ -480,8 +711,16 @@
     "weight": "3–6 kg",
     "lifespan": "10–14 tahun",
     "price_range_IDR": "Rp 1.000.000 – Rp 3.000.000",
-    "tags": ["Kucing Alami", "Adaptif", "Cepat"],
-    "personality": ["Cerdas", "Aktif", "Sosial"],
+    "tags": [
+      "Kucing Alami",
+      "Adaptif",
+      "Cepat"
+    ],
+    "personality": [
+      "Cerdas",
+      "Aktif",
+      "Sosial"
+    ],
     "description": "Ras alami dari pulau Siprus. Kucing ini aktif, cerdas, dan sangat adaptif terhadap lingkungan yang berbeda."
   },
   {
@@ -496,8 +735,16 @@
     "weight": "2.5–4.5 kg",
     "lifespan": "10–15 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 12.000.000",
-    "tags": ["Bulu Perak Biru", "Pendiam", "Sensitif"],
-    "personality": ["Penyayang", "Tenang", "Setia"],
+    "tags": [
+      "Bulu Perak Biru",
+      "Pendiam",
+      "Sensitif"
+    ],
+    "personality": [
+      "Penyayang",
+      "Tenang",
+      "Setia"
+    ],
     "description": "Korat adalah ras alami dari Thailand dengan bulu berwarna perak-biru dan mata hijau besar. Mereka sensitif terhadap suara keras dan sangat setia."
   },
   {
@@ -512,8 +759,16 @@
     "weight": "4–6 kg",
     "lifespan": "12–15 tahun",
     "price_range_IDR": "Rp 3.000.000 – Rp 7.000.000",
-    "tags": ["Ras Alami", "Pemburu Handal", "Aktif"],
-    "personality": ["Aktif", "Cerdas", "Mandiri"],
+    "tags": [
+      "Ras Alami",
+      "Pemburu Handal",
+      "Aktif"
+    ],
+    "personality": [
+      "Aktif",
+      "Cerdas",
+      "Mandiri"
+    ],
     "description": "Dragon Li adalah ras alami Tiongkok yang merupakan pemburu yang sangat efektif. Mereka aktif, cerdas, dan sangat menghargai waktu bermain."
   },
   {
@@ -528,8 +783,16 @@
     "weight": "3–8 kg",
     "lifespan": "12–17 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 12.000.000",
-    "tags": ["Suka Air", "Bulu Tahan Air", "Aktif"],
-    "personality": ["Cerdas", "Lincah", "Penuh Rasa Ingin Tahu"],
+    "tags": [
+      "Suka Air",
+      "Bulu Tahan Air",
+      "Aktif"
+    ],
+    "personality": [
+      "Cerdas",
+      "Lincah",
+      "Penuh Rasa Ingin Tahu"
+    ],
     "description": "Turkish Van dikenal karena kecintaannya pada air, menjadikannya 'kucing perenang'. Mereka memiliki bulu semi-panjang yang lembut dan tahan air."
   },
   {
@@ -544,8 +807,16 @@
     "weight": "3–7 kg",
     "lifespan": "12–15 tahun",
     "price_range_IDR": "Rp 10.000.000 – Rp 30.000.000",
-    "tags": ["Kucing Botak", "Perlu Kehangatan", "Cerdas"],
-    "personality": ["Penyayang", "Sosial", "Mudah Bergaul"],
+    "tags": [
+      "Kucing Botak",
+      "Perlu Kehangatan",
+      "Cerdas"
+    ],
+    "personality": [
+      "Penyayang",
+      "Sosial",
+      "Mudah Bergaul"
+    ],
     "description": "Ras tanpa bulu dari Rusia, mirip dengan Sphynx namun genetikanya berbeda. Mereka sangat penyayang dan membutuhkan perlindungan dari cuaca dingin."
   },
   {
@@ -560,8 +831,16 @@
     "weight": "3.5–5 kg",
     "lifespan": "10–15 tahun",
     "price_range_IDR": "Rp 6.000.000 – Rp 14.000.000",
-    "tags": ["Bulu Keriting", "Alergi Rendah", "Ceria"],
-    "personality": ["Penuh Kasih Sayang", "Ceria", "Aktif"],
+    "tags": [
+      "Bulu Keriting",
+      "Alergi Rendah",
+      "Ceria"
+    ],
+    "personality": [
+      "Penuh Kasih Sayang",
+      "Ceria",
+      "Aktif"
+    ],
     "description": "LaPerm memiliki bulu yang unik, keriting, atau bergelombang. Mereka sangat penyayang dan suka meringkuk, serta dianggap lebih baik bagi penderita alergi."
   },
   {
@@ -576,8 +855,16 @@
     "weight": "4–8 kg",
     "lifespan": "14–20 tahun",
     "price_range_IDR": "Rp 7.000.000 – Rp 18.000.000",
-    "tags": ["Bulu Tebal", "Tenang", "Pipi Chubby"],
-    "personality": ["Kalem", "Bermartabat", "Penyayang"],
+    "tags": [
+      "Bulu Tebal",
+      "Tenang",
+      "Pipi Chubby"
+    ],
+    "personality": [
+      "Kalem",
+      "Bermartabat",
+      "Penyayang"
+    ],
     "description": "Versi bulu panjang dari British Shorthair. Mereka memiliki temperamen yang tenang, lembut, dan sangat cocok untuk kehidupan di dalam ruangan."
   },
   {
@@ -592,8 +879,16 @@
     "weight": "4.5–9 kg",
     "lifespan": "12–17 tahun",
     "price_range_IDR": "Rp 6.000.000 – Rp 16.000.000",
-    "tags": ["Mirip Ragdoll", "Toleran", "Mudah Beradaptasi"],
-    "personality": ["Lembut", "Ramah", "Santai"],
+    "tags": [
+      "Mirip Ragdoll",
+      "Toleran",
+      "Mudah Beradaptasi"
+    ],
+    "personality": [
+      "Lembut",
+      "Ramah",
+      "Santai"
+    ],
     "description": "Ras yang dikembangkan dari Ragdoll. Mereka memiliki sifat yang sangat lembut, ramah, dan sangat toleran terhadap anak-anak dan hewan lain."
   },
   {
@@ -608,8 +903,16 @@
     "weight": "4–6 kg",
     "lifespan": "14–19 tahun",
     "price_range_IDR": "Rp 4.000.000 – Rp 9.000.000",
-    "tags": ["Kaki Putih", "Vokal", "Penyayang"],
-    "personality": ["Ramah", "Cerdas", "Vokal"],
+    "tags": [
+      "Kaki Putih",
+      "Vokal",
+      "Penyayang"
+    ],
+    "personality": [
+      "Ramah",
+      "Cerdas",
+      "Vokal"
+    ],
     "description": "Snowshoe adalah ras yang berasal dari persilangan Siamese dan American Shorthair, memiliki pola warna point dan kaki putih seperti sepatu salju."
   },
   {
@@ -624,8 +927,16 @@
     "weight": "2–3 kg",
     "lifespan": "11–15 tahun",
     "price_range_IDR": "Rp 6.000.000 – Rp 15.000.000",
-    "tags": ["Kucing Terkecil", "Periang", "Penyayang"],
-    "personality": ["Ramah", "Ceria", "Cinta Perhatian"],
+    "tags": [
+      "Kucing Terkecil",
+      "Periang",
+      "Penyayang"
+    ],
+    "personality": [
+      "Ramah",
+      "Ceria",
+      "Cinta Perhatian"
+    ],
     "description": "Singapura adalah salah satu ras kucing terkecil. Mereka memiliki sifat yang sangat ceria, ingin tahu, dan penuh kasih sayang, meskipun berbadan kecil."
   },
   {
@@ -640,8 +951,16 @@
     "weight": "2.5–5 kg",
     "lifespan": "12–15 tahun",
     "price_range_IDR": "Rp 4.000.000 – Rp 9.000.000",
-    "tags": ["Vokal", "Poin Warna", "Aktif"],
-    "personality": ["Ekstrovert", "Cerdas", "Menuntut"],
+    "tags": [
+      "Vokal",
+      "Poin Warna",
+      "Aktif"
+    ],
+    "personality": [
+      "Ekstrovert",
+      "Cerdas",
+      "Menuntut"
+    ],
     "description": "Kucing yang sangat vokal dan cerdas, Colorpoint Shorthair menyerupai Siamese tetapi dengan variasi warna point yang lebih banyak. Mereka sangat aktif dan terikat pada pemilik."
   },
   {
@@ -656,8 +975,17 @@
     "weight": "5–10 kg",
     "lifespan": "12–20 tahun",
     "price_range_IDR": "Rp 15.000.000 – Rp 70.000.000",
-    "tags": ["Hibrida", "Sangat Aktif", "Lompatan Tinggi", "Seperti Anjing"],
-    "personality": ["Cerdas", "Penasaran", "Liar"],
+    "tags": [
+      "Hibrida",
+      "Sangat Aktif",
+      "Lompatan Tinggi",
+      "Seperti Anjing"
+    ],
+    "personality": [
+      "Cerdas",
+      "Penasaran",
+      "Liar"
+    ],
     "description": "Savannah (generasi F4 ke bawah) adalah hibrida domestik. Kucing besar, cerdas, dan aktif yang membutuhkan banyak ruang dan interaksi."
   },
   {
@@ -672,8 +1000,16 @@
     "weight": "3–5 kg",
     "lifespan": "12–18 tahun",
     "price_range_IDR": "Rp 4.000.000 – Rp 9.000.000",
-    "tags": ["Anggun", "Aktif", "Kucing Penari"],
-    "personality": ["Cerdas", "Lincah", "Penyayang"],
+    "tags": [
+      "Anggun",
+      "Aktif",
+      "Kucing Penari"
+    ],
+    "personality": [
+      "Cerdas",
+      "Lincah",
+      "Penyayang"
+    ],
     "description": "Ras alami yang anggun, Turkish Angora dikenal cerdas, lincah, dan sangat suka berinteraksi dengan manusia."
   },
   {
@@ -688,25 +1024,17 @@
     "weight": "3.5–7 kg",
     "lifespan": "10–15 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 12.000.000",
-    "tags": ["Wajah Datar", "Tenang", "Perawatan Rendah"],
-    "personality": ["Lembut", "Penyayang", "Kalem"],
+    "tags": [
+      "Wajah Datar",
+      "Tenang",
+      "Perawatan Rendah"
+    ],
+    "personality": [
+      "Lembut",
+      "Penyayang",
+      "Kalem"
+    ],
     "description": "Disebut juga 'Persian dengan bulu pendek'. Mereka memiliki temperamen tenang dan wajah datar yang khas, namun perawatannya lebih mudah."
-  },
-  {
-    "id": "manc",
-    "name": "Cymric (Manx Longhair)",
-    "origin": "Isle of Man, Kanada",
-    "fur_type": "Panjang",
-    "size": "Medium hingga Besar",
-    "activity_level": 3,
-    "care_level": "Sedang",
-    "grooming_level": "Sedang",
-    "weight": "3.5–5.5 kg",
-    "lifespan": "8–14 tahun",
-    "price_range_IDR": "Rp 4.000.000 – Rp 9.000.000",
-    "tags": ["Tanpa Ekor", "Kaki Belakang Kuat", "Cerdas"],
-    "personality": ["Penyayang", "Tenang", "Suka Bermain"],
-    "description": "Cymric adalah versi bulu panjang dari Manx, dikenal karena tidak memiliki ekor. Mereka memiliki kaki belakang yang kuat dan suka melompat."
   },
   {
     "id": "manx",
@@ -720,8 +1048,16 @@
     "weight": "3.5–5.5 kg",
     "lifespan": "8–14 tahun",
     "price_range_IDR": "Rp 4.000.000 – Rp 9.000.000",
-    "tags": ["Tanpa Ekor", "Kaki Belakang Kuat", "Seperti Anjing"],
-    "personality": ["Penyayang", "Tenang", "Suka Bermain"],
+    "tags": [
+      "Tanpa Ekor",
+      "Kaki Belakang Kuat",
+      "Seperti Anjing"
+    ],
+    "personality": [
+      "Penyayang",
+      "Tenang",
+      "Suka Bermain"
+    ],
     "description": "Manx dikenal karena tidak memiliki ekor. Mereka sangat penyayang dan seringkali bertingkah seperti anjing, menyukai permainan *fetch*."
   },
   {
@@ -736,8 +1072,16 @@
     "weight": "3.5–6.5 kg",
     "lifespan": "15–18 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 12.000.000",
-    "tags": ["Bulu Biru Perak", "Tenang", "Langka"],
-    "personality": ["Penyayang", "Pendiam", "Anggun"],
+    "tags": [
+      "Bulu Biru Perak",
+      "Tenang",
+      "Langka"
+    ],
+    "personality": [
+      "Penyayang",
+      "Pendiam",
+      "Anggun"
+    ],
     "description": "Nebelung adalah versi bulu panjang dari Russian Blue, dengan bulu biru keperakan yang indah. Mereka penyayang tetapi pemalu dengan orang asing."
   },
   {
@@ -752,8 +1096,16 @@
     "weight": "3–5 kg",
     "lifespan": "10–12 tahun",
     "price_range_IDR": "Rp 15.000.000 – Rp 40.000.000",
-    "tags": ["Mata Berbeda Warna", "Putih Murni", "Langka"],
-    "personality": ["Sosial", "Cerdas", "Aktif"],
+    "tags": [
+      "Mata Berbeda Warna",
+      "Putih Murni",
+      "Langka"
+    ],
+    "personality": [
+      "Sosial",
+      "Cerdas",
+      "Aktif"
+    ],
     "description": "Kucing Thailand kuno yang sangat langka, dikenal karena bulu putih murni dan matanya yang seringkali berbeda warna. Mereka sangat sosial dan cerdas."
   },
   {
@@ -768,8 +1120,16 @@
     "weight": "4–8 kg",
     "lifespan": "13–15 tahun",
     "price_range_IDR": "Rp 7.000.000 – Rp 16.000.000",
-    "tags": ["Ekor Pendek", "Polidaktil", "Seperti Bobcat"],
-    "personality": ["Aktif", "Setia", "Ramah"],
+    "tags": [
+      "Ekor Pendek",
+      "Polidaktil",
+      "Seperti Bobcat"
+    ],
+    "personality": [
+      "Aktif",
+      "Setia",
+      "Ramah"
+    ],
     "description": "Kucing yang sengaja dikembangkan agar menyerupai Bobcat. Mereka memiliki ekor pendek alami dan sering kali polidaktil (memiliki jari kaki ekstra)."
   },
   {
@@ -784,8 +1144,16 @@
     "weight": "5.5–7 kg",
     "lifespan": "13–15 tahun",
     "price_range_IDR": "Rp 4.000.000 – Rp 9.000.000",
-    "tags": ["Warna Cokelat", "Penyayang", "Tenang"],
-    "personality": ["Manis", "Ramah", "Suka diemong"],
+    "tags": [
+      "Warna Cokelat",
+      "Penyayang",
+      "Tenang"
+    ],
+    "personality": [
+      "Manis",
+      "Ramah",
+      "Suka diemong"
+    ],
     "description": "Ras ini dikenal dengan bulu cokelatnya yang indah. Mereka adalah kucing yang santai, manis, dan sangat penyayang."
   },
   {
@@ -800,8 +1168,16 @@
     "weight": "2–4 kg",
     "lifespan": "12–14 tahun",
     "price_range_IDR": "Rp 15.000.000 – Rp 35.000.000",
-    "tags": ["Dwarf", "Kulit Berkerut", "Sangat Manja"],
-    "personality": ["Penuh Kasih Sayang", "Ceria", "Manja"],
+    "tags": [
+      "Dwarf",
+      "Kulit Berkerut",
+      "Sangat Manja"
+    ],
+    "personality": [
+      "Penuh Kasih Sayang",
+      "Ceria",
+      "Manja"
+    ],
     "description": "Bambino adalah hibrida Munchkin dan Sphynx, dikenal karena kakinya yang pendek dan tubuhnya yang tidak berbulu. Mereka sangat manja dan membutuhkan perawatan kulit."
   },
   {
@@ -816,8 +1192,16 @@
     "weight": "4–6 kg",
     "lifespan": "10–15 tahun",
     "price_range_IDR": "Rp 8.000.000 – Rp 20.000.000",
-    "tags": ["Pola Macan Tutul", "Langka", "Suka Melompat"],
-    "personality": ["Cerdas", "Aktif", "Penyayang"],
+    "tags": [
+      "Pola Macan Tutul",
+      "Langka",
+      "Suka Melompat"
+    ],
+    "personality": [
+      "Cerdas",
+      "Aktif",
+      "Penyayang"
+    ],
     "description": "Kucing yang dikembangkan untuk menyerupai macan tutul, namun merupakan ras domestik. Mereka cerdas, aktif, dan suka melompat serta menjelajah."
   },
   {
@@ -832,8 +1216,16 @@
     "weight": "3.5–5.5 kg",
     "lifespan": "14–16 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 10.000.000",
-    "tags": ["Bulu Lembut", "Penyayang", "Vokal Lembut"],
-    "personality": ["Sosial", "Lembut", "Setia"],
+    "tags": [
+      "Bulu Lembut",
+      "Penyayang",
+      "Vokal Lembut"
+    ],
+    "personality": [
+      "Sosial",
+      "Lembut",
+      "Setia"
+    ],
     "description": "Kucing yang cantik dengan bulu semi-panjang dan sifat yang manis. Mereka sangat penyayang dan setia kepada pemiliknya, namun tidak terlalu vokal."
   },
   {
@@ -848,25 +1240,17 @@
     "weight": "4.5–7 kg",
     "lifespan": "14–20 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 15.000.000",
-    "tags": ["Ekor Pendek Pom-Pom", "Suka Air", "Pemburu"],
-    "personality": ["Cerdas", "Berani", "Penyayang"],
+    "tags": [
+      "Ekor Pendek Pom-Pom",
+      "Suka Air",
+      "Pemburu"
+    ],
+    "personality": [
+      "Cerdas",
+      "Berani",
+      "Penyayang"
+    ],
     "description": "Kucing yang kuat dengan ekor pendek pom-pom. Mereka dikenal berani, suka bermain, dan uniknya, mereka sering menyukai air."
-  },
-  {
-    "id": "suan",
-    "name": "Sokoke",
-    "origin": "Kenya",
-    "fur_type": "Pendek",
-    "size": "Medium",
-    "activity_level": 5,
-    "care_level": "Rendah",
-    "grooming_level": "Rendah",
-    "weight": "2.5–5 kg",
-    "lifespan": "12–15 tahun",
-    "price_range_IDR": "Rp 7.000.000 – Rp 15.000.000",
-    "tags": ["Ras Liar", "Sangat Aktif", "Vokal"],
-    "personality": ["Enerjik", "Cerdas", "Teritorial"],
-    "description": "Ras alami dari Hutan Sokoke di Kenya. Mereka sangat aktif, suka memanjat, dan memiliki pola bulu yang unik."
   },
   {
     "id": "crex",
@@ -880,8 +1264,16 @@
     "weight": "2.5–4.5 kg",
     "lifespan": "10–15 tahun",
     "price_range_IDR": "Rp 6.000.000 – Rp 14.000.000",
-    "tags": ["Bulu Bergelombang", "Sangat Aktif", "Anggun"],
-    "personality": ["Enerjik", "Ramah", "Penuh Kasih Sayang"],
+    "tags": [
+      "Bulu Bergelombang",
+      "Sangat Aktif",
+      "Anggun"
+    ],
+    "personality": [
+      "Enerjik",
+      "Ramah",
+      "Penuh Kasih Sayang"
+    ],
     "description": "Cornish Rex memiliki bulu keriting yang sangat pendek dan bergelombang. Mereka sangat aktif, suka bermain, dan selalu ingin menjadi bagian dari aktivitas keluarga."
   },
   {
@@ -896,8 +1288,16 @@
     "weight": "4–7 kg",
     "lifespan": "12–14 tahun",
     "price_range_IDR": "Rp 1.500.000 – Rp 4.000.000",
-    "tags": ["Kucing Gurun", "Independen", "Pemburu Hebat"],
-    "personality": ["Setia", "Aktif", "Tegas"],
+    "tags": [
+      "Kucing Gurun",
+      "Independen",
+      "Pemburu Hebat"
+    ],
+    "personality": [
+      "Setia",
+      "Aktif",
+      "Tegas"
+    ],
     "description": "Arabian Mau adalah kucing alami gurun yang telah beradaptasi dengan baik di perkotaan. Mereka sangat setia kepada keluarganya dan memiliki tingkat energi yang tinggi."
   },
   {
@@ -912,8 +1312,16 @@
     "weight": "3.5–6 kg",
     "lifespan": "15–18 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 10.000.000",
-    "tags": ["Sangat Ramah", "Tidak Suka Mencakar", "Toleran"],
-    "personality": ["Sosial", "Playful", "Cinta Damai"],
+    "tags": [
+      "Sangat Ramah",
+      "Tidak Suka Mencakar",
+      "Toleran"
+    ],
+    "personality": [
+      "Sosial",
+      "Playful",
+      "Cinta Damai"
+    ],
     "description": "Australian Mist adalah ras yang dikembangkan untuk menjadi kucing rumahan yang santai dan toleran. Mereka sangat ramah terhadap anak-anak dan hewan peliharaan lain."
   },
   {
@@ -928,25 +1336,17 @@
     "weight": "2.5–5 kg",
     "lifespan": "12–20 tahun",
     "price_range_IDR": "Rp 4.000.000 – Rp 9.000.000",
-    "tags": ["Vokal", "Anggun", "Cerdas"],
-    "personality": ["Ramah", "Vokal", "Aktif"],
+    "tags": [
+      "Vokal",
+      "Anggun",
+      "Cerdas"
+    ],
+    "personality": [
+      "Ramah",
+      "Vokal",
+      "Aktif"
+    ],
     "description": "Balinese adalah versi bulu panjang dari Siamese. Mereka sama-sama vokal dan cerdas, namun lebih anggun dan tenang. Mereka suka menjadi pusat perhatian."
-  },
-  {
-    "id": "sfor",
-    "name": "Scottish Straight",
-    "origin": "Skotlandia",
-    "fur_type": "Pendek / Panjang",
-    "size": "Medium",
-    "activity_level": 3,
-    "care_level": "Sedang",
-    "grooming_level": "Sedang",
-    "weight": "2.5–6 kg",
-    "lifespan": "11–15 tahun",
-    "price_range_IDR": "Rp 4.000.000 – Rp 8.000.000",
-    "tags": ["Telinga Lurus", "Lembut", "Tenang"],
-    "personality": ["Manis", "Penyayang", "Tenang"],
-    "description": "Scottish Straight adalah kucing Scottish Fold dengan telinga lurus. Mereka memiliki temperamen yang sama manis dan tenang."
   },
   {
     "id": "bure",
@@ -960,8 +1360,16 @@
     "weight": "4–6 kg",
     "lifespan": "10–17 tahun",
     "price_range_IDR": "Rp 4.000.000 – Rp 9.000.000",
-    "tags": ["Sangat Ramah", "Seperti Anjing", "Cerdas"],
-    "personality": ["Penyayang", "Sosial", "Cerdas"],
+    "tags": [
+      "Sangat Ramah",
+      "Seperti Anjing",
+      "Cerdas"
+    ],
+    "personality": [
+      "Penyayang",
+      "Sosial",
+      "Cerdas"
+    ],
     "description": "Burmese adalah ras yang sangat sosial dan penyayang, sering bertingkah seperti anjing. Mereka akan menyambut pemiliknya di pintu dan suka bermain *fetch*."
   },
   {
@@ -976,8 +1384,16 @@
     "weight": "3.5–6.5 kg",
     "lifespan": "15–20 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 12.000.000",
-    "tags": ["Bulu Biru Perak", "Anggun", "Pendiam"],
-    "personality": ["Tenang", "Penyayang", "Cerdas"],
+    "tags": [
+      "Bulu Biru Perak",
+      "Anggun",
+      "Pendiam"
+    ],
+    "personality": [
+      "Tenang",
+      "Penyayang",
+      "Cerdas"
+    ],
     "description": "Nebelung sering disebut Russian Blue berbulu panjang. Mereka penyayang, pemalu dengan orang asing, dan memiliki bulu keperakan yang indah."
   },
   {
@@ -992,8 +1408,17 @@
     "weight": "5–10 kg",
     "lifespan": "12–20 tahun",
     "price_range_IDR": "Rp 15.000.000 – Rp 70.000.000",
-    "tags": ["Hibrida", "Sangat Aktif", "Lompatan Tinggi", "Seperti Anjing"],
-    "personality": ["Cerdas", "Penasaran", "Liar"],
+    "tags": [
+      "Hibrida",
+      "Sangat Aktif",
+      "Lompatan Tinggi",
+      "Seperti Anjing"
+    ],
+    "personality": [
+      "Cerdas",
+      "Penasaran",
+      "Liar"
+    ],
     "description": "Savannah (generasi F4 dan seterusnya) adalah hibrida domestik. Kucing besar, cerdas, dan aktif yang membutuhkan banyak ruang dan interaksi."
   },
   {
@@ -1008,8 +1433,16 @@
     "weight": "3–7 kg",
     "lifespan": "13–15 tahun",
     "price_range_IDR": "Rp 6.000.000 – Rp 14.000.000",
-    "tags": ["Ekor Pendek", "Cerdas", "Setia"],
-    "personality": ["Ramah", "Cerdas", "Adaptif"],
+    "tags": [
+      "Ekor Pendek",
+      "Cerdas",
+      "Setia"
+    ],
+    "personality": [
+      "Ramah",
+      "Cerdas",
+      "Adaptif"
+    ],
     "description": "Dikenal karena ekornya yang pendek dan sifatnya yang cerdas serta setia, seringkali mengikuti pemiliknya seperti anjing."
   },
   {
@@ -1024,8 +1457,16 @@
     "weight": "3–5 kg",
     "lifespan": "12–16 tahun",
     "price_range_IDR": "Rp 5.000.000 – Rp 12.000.000",
-    "tags": ["Telinga Melengkung", "Ramah Anak", "Penyayang"],
-    "personality": ["Ceria", "Penuh Kasih Sayang", "Playful"],
+    "tags": [
+      "Telinga Melengkung",
+      "Ramah Anak",
+      "Penyayang"
+    ],
+    "personality": [
+      "Ceria",
+      "Penuh Kasih Sayang",
+      "Playful"
+    ],
     "description": "American Curl terkenal dengan telinganya yang melengkung ke belakang. Mereka sangat penyayang dan ramah terhadap semua orang."
   },
   {
@@ -1040,8 +1481,16 @@
     "weight": "3–5 kg",
     "lifespan": "10–15 tahun",
     "price_range_IDR": "Rp 1.000.000 – Rp 3.000.000",
-    "tags": ["Kucing Alami", "Sosial", "Suka Memancing"],
-    "personality": ["Cerdas", "Aktif", "Vokal"],
+    "tags": [
+      "Kucing Alami",
+      "Sosial",
+      "Suka Memancing"
+    ],
+    "personality": [
+      "Cerdas",
+      "Aktif",
+      "Vokal"
+    ],
     "description": "Ras kucing alami dari pulau-pulau Yunani. Mereka sosial, suka memancing, dan memiliki sifat yang kuat."
   },
   {
@@ -1056,8 +1505,16 @@
     "weight": "3–7 kg",
     "lifespan": "12–15 tahun",
     "price_range_IDR": "Rp 7.000.000 – Rp 15.000.000",
-    "tags": ["Bulu Biru", "Pendiam", "Senyum Manis"],
-    "personality": ["Tenang", "Setia", "Cerdas"],
+    "tags": [
+      "Bulu Biru",
+      "Pendiam",
+      "Senyum Manis"
+    ],
+    "personality": [
+      "Tenang",
+      "Setia",
+      "Cerdas"
+    ],
     "description": "Chartreux adalah kucing yang pendiam (jarang mengeong), cerdas, dan setia. Mereka memiliki 'senyum' manis dan bulu biru-abu-abu yang tebal."
   },
   {
@@ -1072,8 +1529,16 @@
     "weight": "4–9 kg",
     "lifespan": "12–18 tahun",
     "price_range_IDR": "Rp 10.000.000 – Rp 25.000.000",
-    "tags": ["Hibrida", "Sangat Aktif", "Bertotol Besar"],
-    "personality": ["Sosial", "Cerdas", "Playful"],
+    "tags": [
+      "Hibrida",
+      "Sangat Aktif",
+      "Bertotol Besar"
+    ],
+    "personality": [
+      "Sosial",
+      "Cerdas",
+      "Playful"
+    ],
     "description": "Ras yang dikembangkan dari Bengal dan Ocicat, Cheetoh memiliki tubuh besar dan sangat aktif. Mereka cerdas dan sangat sosial."
   },
   {
@@ -1088,8 +1553,16 @@
     "weight": "4–6 kg",
     "lifespan": "10–17 tahun",
     "price_range_IDR": "Rp 4.000.000 – Rp 9.000.000",
-    "tags": ["Sangat Ramah", "Seperti Anjing", "Cerdas"],
-    "personality": ["Penyayang", "Sosial", "Cerdas"],
+    "tags": [
+      "Sangat Ramah",
+      "Seperti Anjing",
+      "Cerdas"
+    ],
+    "personality": [
+      "Penyayang",
+      "Sosial",
+      "Cerdas"
+    ],
     "description": "Varian dari Burmese Amerika, European Burmese memiliki kepala yang lebih lancip dan berbagai warna. Mereka dikenal karena sifatnya yang sangat sosial."
   },
   {
@@ -1104,24 +1577,16 @@
     "weight": "3.5–6.5 kg",
     "lifespan": "12–15 tahun",
     "price_range_IDR": "Rp 10.000.000 – Rp 25.000.000",
-    "tags": ["Miniatur Harimau", "Sosial", "Cerdas"],
-    "personality": ["Ramah", "Cerdas", "Playful"],
+    "tags": [
+      "Miniatur Harimau",
+      "Sosial",
+      "Cerdas"
+    ],
+    "personality": [
+      "Ramah",
+      "Cerdas",
+      "Playful"
+    ],
     "description": "Toyger adalah ras yang dikembangkan untuk memiliki penampilan seperti harimau kecil. Mereka cerdas, ramah, dan sangat menikmati interaksi."
-  },
-  {
-    "id": "muns",
-    "name": "Munchkin (Minskin)",
-    "origin": "Amerika Serikat",
-    "fur_type": "Tanpa bulu / Peach fuzz",
-    "size": "Sangat Kecil (Kaki Pendek)",
-    "activity_level": 4,
-    "care_level": "Tinggi",
-    "grooming_level": "Sedang",
-    "weight": "2–4 kg",
-    "lifespan": "12–15 tahun",
-    "price_range_IDR": "Rp 15.000.000 – Rp 35.000.000",
-    "tags": ["Dwarf", "Kulit Berkerut", "Kaki Pendek"],
-    "personality": ["Penuh Kasih Sayang", "Ceria", "Manja"],
-    "description": "Minskin adalah kucing berkaki pendek, sebagian atau sepenuhnya tidak berbulu. Mereka adalah kucing pangkuan yang manja dan sangat ceria."
   }
 ]

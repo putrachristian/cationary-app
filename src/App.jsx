@@ -11,6 +11,7 @@ import { TipsPage } from "./pages/TipsPage"
 import { ArticleDetailPage } from "./pages/ArticleDetailPage"
 import { FavoritPage } from "./pages/FavoritPage"
 import { FunCatFactsPage } from "./pages/FunCatFactsPage"
+import { ChatPage } from "./pages/ChatPage"
 
 const ONBOARDING_KEY = "cationary_onboarding_completed"
 
@@ -117,7 +118,7 @@ const App = () => {
   }
 
   // Show bottom nav for main 4 pages
-  const showBottomNav = ["home", "breeds", "match", "tips"].includes(
+  const showBottomNav = ["home", "breeds", "match", "tips", "chat"].includes(
     currentPage
   )
 
@@ -157,6 +158,8 @@ const App = () => {
       {currentPage === "favorit" && <FavoritPage onNavigate={navigate} />}
 
       {currentPage === "fun-facts" && <FunCatFactsPage onNavigate={navigate} />}
+
+      {currentPage === "chat" && <ChatPage onNavigate={navigate} />}
 
       {/* Bottom Navigation - Only for main 4 tabs */}
       {showBottomNav && (
