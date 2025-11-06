@@ -1,0 +1,70 @@
+[
+  {
+    "id": "q01",
+    "category": "Lingkungan",
+    "text": "Apakah kamu tinggal di apartemen, rumah besar, atau kos/kontrakan kecil?",
+    "options": ["Apartemen", "Rumah besar", "Kos/kontrakan kecil"]
+  },
+  {
+    "id": "q02",
+    "category": "Lingkungan",
+    "text": "Apakah kamu sering meninggalkan rumah lebih dari 8 jam sehari?",
+    "options": ["Ya, sering", "Kadang-kadang", "Jarang sekali"]
+  },
+  {
+    "id": "q03",
+    "category": "Kepribadian",
+    "text": "Apakah kamu lebih suka kucing yang mandiri atau yang manja dan selalu ingin dekat?",
+    "options": ["Mandiri", "Manja dan suka dekat", "Tidak masalah keduanya"]
+  },
+  {
+    "id": "q04",
+    "category": "Kepribadian",
+    "text": "Apakah kamu lebih suka kucing yang tenang dan kalem, atau aktif dan suka bermain?",
+    "options": [
+      "Tenang dan kalem",
+      "Aktif dan suka bermain",
+      "Di antara keduanya"
+    ]
+  },
+  {
+    "id": "q05",
+    "category": "Perawatan",
+    "text": "Apakah kamu punya waktu rutin untuk menyisir bulu kucing setiap hari?",
+    "options": [
+      "Ya, setiap hari",
+      "Beberapa kali seminggu",
+      "Tidak terlalu sering"
+    ]
+  },
+  {
+    "id": "q06",
+    "category": "Perawatan",
+    "text": "Apakah kamu ingin kucing dengan bulu panjang, sedang, atau pendek?",
+    "options": ["Pendek", "Sedang", "Panjang"]
+  },
+  {
+    "id": "q07",
+    "category": "Komitmen",
+    "text": "Apakah kamu siap mengeluarkan biaya lebih untuk makanan dan perawatan khusus?",
+    "options": ["Ya, siap", "Cukup terbatas", "Tidak yakin"]
+  },
+  {
+    "id": "q08",
+    "category": "Sosial & Keluarga",
+    "text": "Apakah kamu memiliki anak kecil atau hewan peliharaan lain di rumah?",
+    "options": ["Ya, ada anak atau hewan lain", "Tidak ada"]
+  },
+  {
+    "id": "q09",
+    "category": "Preferensi",
+    "text": "Apakah kamu lebih suka kucing yang besar dan berbulu lebat, atau kecil dan ramping?",
+    "options": ["Besar dan berbulu lebat", "Kecil dan ramping", "Tidak masalah"]
+  },
+  {
+    "id": "q10",
+    "category": "Preferensi",
+    "text": "Apakah kamu lebih tertarik pada kucing dengan gaya klasik (seperti Persian) atau eksotis (seperti Bengal/Sphynx)?",
+    "options": ["Klasik", "Eksotis", "Tidak masalah"]
+  }
+]
