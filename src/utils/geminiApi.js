@@ -83,7 +83,7 @@ ${answersText}`;
 
     // Generate content using GoogleGenAI with systemInstruction in config
     const response = await genAI.models.generateContent({
-      model: "gemini-2.5-flash",
+      model: "gemini-2.5-flash-lite",
       contents: prompt,
       config: {
         systemInstruction: systemInstruction,
@@ -183,7 +183,7 @@ Jawab dengan ramah, informatif, dan dalam Bahasa Indonesia. SELALU pastikan pert
 
     // Generate content using GoogleGenAI with systemInstruction in config
     const response = await genAI.models.generateContent({
-      model: "gemini-2.5-flash",
+      model: "gemini-2.5-flash-lite",
       contents: contents,
       config: {
         systemInstruction: systemInstruction,
@@ -250,7 +250,7 @@ Pastikan:
 
     // Generate content using GoogleGenAI with systemInstruction in config
     const response = await genAI.models.generateContent({
-      model: "gemini-2.5-flash",
+      model: "gemini-2.5-flash-lite",
       contents: "Generate 10 quiz questions for cat match",
       config: {
         systemInstruction: systemInstruction,
