@@ -12,6 +12,7 @@ import { ArticleDetailPage } from "./pages/ArticleDetailPage"
 import { FavoritPage } from "./pages/FavoritPage"
 import { FunCatFactsPage } from "./pages/FunCatFactsPage"
 import { ChatPage } from "./pages/ChatPage"
+import { trackPageView } from "./utils/analytics"
 
 const ONBOARDING_KEY = "cationary_onboarding_completed"
 
@@ -40,6 +41,8 @@ const App = () => {
         previousPage: null,
       }
       window.history.replaceState(initialState, "", window.location.href)
+      // Track initial page view
+      trackPageView("/home")
     } else {
       // Set initial history state to onboarding
       const initialState = {
@@ -48,6 +51,8 @@ const App = () => {
         previousPage: null,
       }
       window.history.replaceState(initialState, "", window.location.href)
+      // Track initial page view
+      trackPageView("/onboarding")
     }
 
     // Handle browser back/forward buttons
@@ -58,6 +63,9 @@ const App = () => {
         setCurrentPage(state.page)
         setPageData(state.pageData)
         setPreviousPage(state.previousPage)
+
+        // Track page view for browser navigation
+        trackPageView(`/${state.page}`)
 
         // Only show onboarding if it hasn't been completed
         const hasCompletedOnboarding =
@@ -73,6 +81,7 @@ const App = () => {
             previousPage: state.previousPage,
           }
           window.history.replaceState(homeState, "", window.location.href)
+          trackPageView("/home")
         }
       }
     }
@@ -102,6 +111,9 @@ const App = () => {
     setPreviousPage(currentPage)
     setCurrentPage(page)
     setPageData(data || null)
+    
+    // Track page view in Google Analytics
+    trackPageView(`/${page}`)
   }
 
   const handleOnboardingComplete = () => {
@@ -115,6 +127,8 @@ const App = () => {
     }
     window.history.pushState(newState, "", window.location.href)
     setCurrentPage("home")
+    // Track onboarding completion and page view
+    trackPageView("/home")
   }
 
   // Show bottom nav for main 4 pages
