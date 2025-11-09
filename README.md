@@ -1,60 +1,146 @@
-# Cationary
+# Cationary 🐱
 
-Aplikasi web untuk menemukan informasi lengkap tentang berbagai ras kucing dan menemukan ras yang cocok untuk Anda.
+**Cationary** adalah aplikasi web berbasis AI yang membantu kamu menemukan informasi lengkap tentang berbagai ras kucing dan menemukan ras yang cocok untuk kamu. Aplikasi ini menggunakan Google Gemini AI untuk memberikan rekomendasi personalisasi dan menjawab pertanyaan tentang kucing.
 
-## Running the code
+🌐 **Live URL:** [cationary.vercel.app](https://cationary.vercel.app)
 
-Run `npm i` to install the dependencies.
+## 🎯 Apa itu Cationary?
 
-Run `npm run dev` to start the development server.
+Cationary adalah solusi lengkap untuk para pecinta kucing yang ingin:
+- Mencari informasi lengkap tentang berbagai ras kucing
+- Menemukan ras kucing yang cocok dengan gaya hidup dan kepribadian mereka
+- Belajar tentang perawatan, kesehatan, dan perilaku kucing
+- Berinteraksi dengan asisten AI yang ramah untuk menjawab pertanyaan tentang kucing
 
-## PWA (Progressive Web App)
+## ✨ Fitur Utama
 
-Aplikasi ini telah dikonfigurasi sebagai PWA. Untuk mengaktifkan fitur PWA:
+### 📚 Catpedia - Ensiklopedia Kucing
+- **Informasi Lengkap**: Akses informasi detail tentang berbagai ras kucing yang umum di Indonesia
+- **Detail Ras**: Setiap ras dilengkapi dengan:
+  - Asal-usul dan sejarah
+  - Karakteristik fisik (ukuran, bulu, warna)
+  - Kepribadian dan temperamen
+  - Kebutuhan perawatan
+  - Kesehatan dan masalah umum
+  - Gambar berkualitas tinggi
 
-1. Install dependencies:
+### 🎯 Cat Match - Temukan Ras yang Cocok
+- **Kuis Personalisasi**: Jawab 10 pertanyaan yang di-generate oleh AI untuk memahami preferensi dan gaya hidup kamu
+- **Rekomendasi AI**: Dapatkan 3 rekomendasi ras kucing yang paling cocok dengan:
+  - Persentase kecocokan (0-100%)
+  - Alasan mengapa ras tersebut cocok
+  - Informasi lengkap tentang setiap ras yang direkomendasikan
+- **Hasil yang Disimpan**: Simpan hasil match untuk referensi di kemudian hari
 
-   ```bash
-   npm install
-   ```
+### 💬 Chat dengan Momochiko
+- **Asisten AI Ramah**: Berinteraksi dengan Momochiko, asisten AI yang siap menjawab pertanyaan tentang kucing
+- **Pertanyaan Seputar Kucing**: Tanya tentang:
+  - Ras kucing dan karakteristiknya
+  - Perawatan dan grooming
+  - Kesehatan dan penyakit umum
+  - Perilaku dan pelatihan
+  - Tips dan trik merawat kucing
+- **Konteks Terbatas**: Momochiko hanya menjawab pertanyaan tentang kucing (hewan kucing), bukan kucing mainan atau karakter fiksi
 
-2. Tambahkan ikon-ikon PWA di folder `public/` (lihat `public/README.md` untuk detail)
+### 📖 Tips & Artikel
+- **Artikel Informatif**: Baca artikel-artikel bermanfaat tentang:
+  - Perawatan kucing
+  - Kesehatan dan vaksinasi
+  - Pelatihan dan perilaku
+  - Nutrisi dan makanan
+  - Dan banyak lagi topik menarik lainnya
+- **Kategori Terorganisir**: Artikel dikelompokkan berdasarkan kategori untuk memudahkan pencarian
 
-3. Build aplikasi:
+### 🎲 Fun Cat Facts
+- **Fakta Menarik**: Temukan fakta-fakta menarik tentang kucing yang mungkin belum kamu ketahui
+- **Edukatif & Menghibur**: Belajar sambil terhibur dengan fakta-fakta unik tentang kucing
 
-   ```bash
-   npm run build
-   ```
+### ❤️ Favorit
+- **Simpan Favorit**: Simpan ras kucing, artikel, atau tips favorit kamu untuk referensi di kemudian hari
+- **Akses Cepat**: Akses konten favorit dengan mudah kapan saja
 
-4. Serve build untuk testing PWA:
-   ```bash
-   npx serve build
-   ```
+### 🔍 Pencarian
+- **Pencarian Global**: Cari ras kucing, artikel, atau tips dengan mudah
+- **Hasil Relevan**: Dapatkan hasil pencarian yang relevan dan terorganisir
 
-### Fitur PWA
+## 🚀 Cara Menggunakan
 
-- ✅ Offline support dengan service worker
-- ✅ Installable sebagai aplikasi
-- ✅ Caching untuk performa lebih baik
-- ✅ Auto-update saat ada versi baru
-- ✅ Support untuk iOS dan Android
+1. **Buka Aplikasi**: Kunjungi [cationary.vercel.app](https://cationary.vercel.app)
 
-### Testing PWA
+2. **Jelajahi Catpedia**: 
+   - Lihat daftar ras kucing yang tersedia
+   - Klik pada ras untuk melihat informasi lengkap
+   - Gunakan fitur pencarian untuk menemukan ras tertentu
 
-- **Chrome DevTools**: Buka DevTools > Application > Service Workers
-- **Lighthouse**: Jalankan audit PWA di Chrome DevTools
-- **Mobile**: Test di perangkat mobile dengan HTTPS atau localhost
+3. **Coba Cat Match**:
+   - Klik "Mulai Cat Match" di halaman utama
+   - Jawab 10 pertanyaan kuis yang diberikan
+   - Dapatkan 3 rekomendasi ras kucing yang cocok untuk kamu
+   - Simpan hasil untuk referensi nanti
 
-### Install ke Device
+4. **Chat dengan Momochiko**:
+   - Klik "Chat dengan Momochiko"
+   - Tanyakan apapun tentang kucing
+   - Dapatkan jawaban yang informatif dan ramah
 
-📖 **Lihat panduan lengkap**: [PWA_INSTALL_GUIDE.md](./PWA_INSTALL_GUIDE.md)
+5. **Baca Tips & Artikel**:
+   - Jelajahi artikel-artikel bermanfaat
+   - Baca tips tentang perawatan, kesehatan, dan perilaku kucing
+   - Simpan artikel favorit untuk dibaca nanti
 
-**Quick Start**:
+6. **Jelajahi Fun Cat Facts**:
+   - Temukan fakta-fakta menarik tentang kucing
+   - Pelajari hal-hal baru yang mungkin belum kamu ketahui
 
-1. Build aplikasi: `npm run build`
-2. Serve build: `npm run preview` atau `npm run serve`
-3. Buka di browser: `http://localhost:3001`
-4. Install:
-   - **Android**: Menu → "Install app"
-   - **iOS**: Safari → Share → "Add to Home Screen"
-   - **Desktop**: Klik ikon install di address bar
+## 🎨 Teknologi yang Digunakan
+
+- **Frontend**: React + Vite
+- **AI**: Google Gemini AI (gemini-2.5-flash-lite)
+- **Image API**: The Cat API untuk gambar ras kucing
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion (Motion)
+- **UI Components**: Radix UI
+- **Deployment**: Vercel
+- **PWA**: Progressive Web App support dengan offline capability
+
+## 💡 Keunggulan
+
+- ✅ **AI-Powered**: Menggunakan teknologi AI terbaru untuk rekomendasi dan chat yang akurat
+- ✅ **Comprehensive**: Informasi lengkap tentang berbagai ras kucing
+- ✅ **Personalized**: Rekomendasi disesuaikan dengan preferensi dan gaya hidup kamu
+- ✅ **User-Friendly**: Interface yang mudah digunakan dan intuitif
+- ✅ **Fast**: Loading cepat dan responsif
+- ✅ **Offline Support**: Dapat digunakan offline dengan PWA
+- ✅ **Mobile-First**: Desain yang optimal untuk mobile dan desktop
+
+## 📱 Kompatibilitas
+
+Aplikasi ini dapat diakses melalui:
+- 🌐 **Web Browser** (Chrome, Firefox, Safari, Edge)
+- 📱 **Mobile Browser** (iOS Safari, Chrome Mobile)
+- 💻 **Desktop Browser**
+- 📲 **PWA**: Dapat diinstall sebagai aplikasi di perangkat mobile dan desktop
+
+## 🎯 Use Cases
+
+- 🐱 **Mau adopsi kucing?** → Gunakan Cat Match untuk menemukan ras yang cocok dengan gaya hidup kamu
+- 📚 **Butuh informasi tentang ras kucing?** → Jelajahi Catpedia untuk informasi lengkap
+- 💬 **Ada pertanyaan tentang kucing?** → Chat dengan Momochiko untuk mendapatkan jawaban
+- 📖 **Ingin belajar merawat kucing?** → Baca tips dan artikel yang tersedia
+- 🎲 **Ingin tahu fakta menarik?** → Jelajahi Fun Cat Facts
+
+## 🔒 Privasi
+
+- Data preferensi dan jawaban kuis tidak disimpan secara permanen di server
+- Favorit disimpan secara lokal di perangkat kamu
+- Tidak ada tracking atau analitik yang mengganggu privasi kamu
+- API key disimpan dengan aman menggunakan environment variables
+
+## 📞 Kontak & Support
+
+Jika kamu memiliki pertanyaan atau saran, silakan hubungi kami melalui:
+- 🌐 Website: [cationary.vercel.app](https://cationary.vercel.app)
+
+---
+
+**Selamat menjelajahi dunia kucing bersama Cationary! 🐱✨**
